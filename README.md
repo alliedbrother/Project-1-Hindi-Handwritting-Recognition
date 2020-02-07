@@ -8,3 +8,5 @@ Must have:
   3.Matplotlib
   4.OpenCV
   5.Python
+  
+ Link for data.csv: https://drive.google.com/file/d/158_IGLrgs-3nsl-adi-5y1NvA4Ok3iR6/view?usp=sharing
