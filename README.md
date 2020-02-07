@@ -7,4 +7,4 @@ Must have:
   2.Keras
   3.Matplotlib
   4.OpenCV
-  
+  5.Python
